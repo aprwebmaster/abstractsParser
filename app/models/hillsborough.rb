@@ -1,0 +1,2 @@
+class Hillsborough < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class Millbrae < ApplicationRecord
+end

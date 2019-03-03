@@ -1,0 +1,2 @@
+class SouthSanFrancisco < ApplicationRecord
+end

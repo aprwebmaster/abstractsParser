@@ -1,0 +1,2 @@
+class SanCarlos < ApplicationRecord
+end

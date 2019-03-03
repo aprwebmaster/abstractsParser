@@ -1,0 +1,2 @@
+class Atherton < ApplicationRecord
+end

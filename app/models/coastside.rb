@@ -1,0 +1,2 @@
+class Coastside < ApplicationRecord
+end

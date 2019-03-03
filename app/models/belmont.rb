@@ -1,0 +1,2 @@
+class Belmont < ApplicationRecord
+end

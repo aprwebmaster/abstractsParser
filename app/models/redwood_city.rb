@@ -1,0 +1,2 @@
+class RedwoodCity < ApplicationRecord
+end

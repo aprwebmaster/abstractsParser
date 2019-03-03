@@ -1,0 +1,2 @@
+class Colma < ApplicationRecord
+end

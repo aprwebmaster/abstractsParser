@@ -1,0 +1,2 @@
+class SanMateo < ApplicationRecord
+end

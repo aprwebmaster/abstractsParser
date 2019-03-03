@@ -1,0 +1,2 @@
+class EastPaloAlto < ApplicationRecord
+end

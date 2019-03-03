@@ -1,0 +1,2 @@
+class Menlopark < ApplicationRecord
+end

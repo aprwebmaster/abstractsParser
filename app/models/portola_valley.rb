@@ -1,0 +1,2 @@
+class PortolaValley < ApplicationRecord
+end

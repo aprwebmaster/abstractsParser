@@ -1,0 +1,2 @@
+class DalyCity < ApplicationRecord
+end

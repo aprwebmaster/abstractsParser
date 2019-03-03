@@ -1,0 +1,2 @@
+class Burlingame < ApplicationRecord
+end
