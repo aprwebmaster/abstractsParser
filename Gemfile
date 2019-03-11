@@ -37,6 +37,8 @@ gem 'axlsx'
 gem 'axlsx_rails'
 gem 'rubyzip', '>= 1.2.1'
 gem 'zip-zip'
+gem 'bootstrap'
+gem 'jquery-rails'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
